@@ -8,31 +8,40 @@
 
 ## 👋 About Me
 
-I'm a dual-degree graduate from Ontario Tech University with Honours in both **Computer Science** and **Game Development & Interactive Media**. I’ve worked on immersive games, VR simulations, and real-time tools using Unity, C++, Python, Blender, and OpenCV. My passion lies in building creative, accessible, and performance-optimized interactive systems.
+I'm a dual-degree graduate from Ontario Tech University with Honours in both **Computer Science** and **Game Development & Interactive Media**. I’ve developed immersive games, VR simulations, and real-time tools using Unity, C++, Python, Blender, and OpenCV. My focus is on building accessible, creative, and performance-optimized interactive systems.
 
 ---
 
-## 🛠️ Projects
+## 🎮 Games Published on Itch.io
 
-### 🔹 [Fighter Frenzy](https://sunujoseph.itch.io/fighter-frenzy)
-A 3D action fighting game with motion-captured animation, AI-driven enemies, and modular animation systems (Unity).
+### 🔹 [Put Yourself In The Game 2D (Custom Animator)](https://gdimcommunityactivities.itch.io/put-yourself-in-the-game-2d-gdim-activity-feb-21)  
+[Alternate Link](https://gdimcommunityactivities.itch.io/event-put-yourself-in-the-game-thurs-feb-22-2024)  
+**Role:** Programmer  
 
-### 🔹 [CyberRift: The Fractured Path](https://sunujoseph.itch.io/cyberrift)
-A pixel-art 2D platformer with custom-built AI behavior and level transitions (Unity, C#).
+### 🔹 [Resilience](https://khangbui.itch.io/resilience)  
+**Role:** Programmer / Game Designer  
 
-### 🔹 Zumba Exergame for Dementia Care
-Unity-based game using **Azure Kinect** skeletal tracking for therapeutic memory stimulation and movement.
+### 🔹 [Grudge Match](https://khangbui.itch.io/grudge-match)  
+**Role:** Programmer  
 
-### 🔹 Put Yourself in the Game 2D
-Custom Unity tool that converts user-recorded video into 2D sprite animations for educational games.
+### 🔹 [Fighter Frenzy](https://yorgi11.itch.io/fighter-frenzy)  
+**Role:** Programmer / 3D Animator  
+
+### 🔹 [CyberRift: The Fractured Path](https://farhaniboii.itch.io/cyberrift-the-fractured-path)  
+**Role:** Programmer / Game Designer  
 
 ---
 
-## 📄 [Download My Resume](https://github.com/sunujoseph/sunujoseph.github.io/raw/main/RESUME_SUNU_J.pdf)
+## 🎓 Capstone 2025
+
+### 🔹 [Zumba Game for Dementia Study (GitHub)](https://github.com/sunujoseph/Zumba-Game)  
+**Role:** Lead Programmer  
+A Unity-based exergame using Azure Kinect for memory stimulation and physical activity.
 
 ---
 
 ## 📫 Contact Me
 
-I'm open to opportunities in game development, interactive media, or software engineering.  
+I’m open to opportunities in game development, interactive media, and software engineering.  
 Feel free to connect or reach out!
+
