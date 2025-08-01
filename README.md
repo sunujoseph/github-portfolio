@@ -3,7 +3,7 @@
 🎮 **Game Developer** | 💻 **Software Engineer**  
 📍 Toronto, ON | ✉️ [sunupiousjoseph@gmail.com](mailto:sunupiousjoseph@gmail.com)  
 🌐 [GitHub](https://github.com/sunujoseph) | [LinkedIn](https://www.linkedin.com/in/sunu-joseph/)  
-📄 [Download My Resume](RESUME_SUNU_J.pdf)
+📄 [View/Download My Resume](RESUME_SUNU_J.pdf)
 
 ---
 
