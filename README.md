@@ -30,23 +30,12 @@ I’m a dual-degree graduate from Ontario Tech University with Honours in Comput
 
 **Role:** Programmer / 3D Animator
 
-**Play Link:**  
-🔗 [Fighter Frenzy on Itch.io](https://yorgi11.itch.io/fighter-frenzy)
-
-<img src="assets/fighter-frenzy.png" alt="Fighter Frenzy Screenshot" width="400"/>
-
-▶️ [Watch Game Trailer on YouTube](https://www.youtube.com/watch?v=GL_rGnmflYU)
-
----
-
 ### 🔹 CyberRift: The Fractured Path
 
 **Role:** Programmer / Game Designer
 
 **Play Link:**  
 🔗 [CyberRift on Itch.io](https://farhaniboii.itch.io/cyberrift-the-fractured-path)
-
-<img src="assets/Cyberrift.png" alt="CyberRift Screenshot" width="400"/>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="assets/Cyber1.gif" alt="Cyberrift Screenshot 1" width="400"/>
@@ -57,7 +46,14 @@ I’m a dual-degree graduate from Ontario Tech University with Honours in Comput
 
 ▶️ [Watch Game Trailer on YouTube](https://www.youtube.com/watch?v=J02vI8q2crk)
 
+---
 
+**Play Link:**  
+🔗 [Fighter Frenzy on Itch.io](https://yorgi11.itch.io/fighter-frenzy)
+
+<img src="assets/fighter-frenzy.png" alt="Fighter Frenzy Screenshot" width="400"/>
+
+▶️ [Watch Game Trailer on YouTube](https://www.youtube.com/watch?v=GL_rGnmflYU)
 
 ---
 
