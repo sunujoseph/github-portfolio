@@ -22,10 +22,28 @@ I’m a dual-degree graduate from Ontario Tech University with Honours in Comput
 🔗 [Feb 21 Event](https://gdimcommunityactivities.itch.io/put-yourself-in-the-game-2d-gdim-activity-feb-21)  
 🔗 [Feb 22 Event](https://gdimcommunityactivities.itch.io/event-put-yourself-in-the-game-thurs-feb-22-2024)
 
-<img src="assets/PutInGame1.gif" alt="Put Yourself In The Game Screenshot 1" width="400"/>
-<img src="assets/PutInGame2.gif" alt="Put Yourself In The Game Screenshot 2" width="400"/>
+<img src="assets/PutInGame1.gif" alt="Put Yourself In The Game Screenshot 1" width="600"/>
+<img src="assets/PutInGame2.gif" alt="Put Yourself In The Game Screenshot 2" width="600"/>
 
+---
 
+### 🔹 CyberRift: The Fractured Path
+
+**Role:** Programmer / Game Designer
+
+**Play Link:**  
+🔗 [CyberRift on Itch.io](https://farhaniboii.itch.io/cyberrift-the-fractured-path)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/Cyber1.gif" alt="Cyberrift Screenshot 1" width="500"/>
+  <img src="assets/Cyber2.gif" alt="Cyberrift Screenshot 2" width="500"/>
+  <img src="assets/Cyber3.gif" alt="Cyberrift Screenshot 3" width="500"/>
+  <img src="assets/Cyber4.gif" alt="Cyberrift Screenshot 4" width="500"/>
+</div>
+
+▶️ [Watch Game Trailer on YouTube](https://www.youtube.com/watch?v=J02vI8q2crk)
+
+---
 ### 🔹 Fighter Frenzy
 
 **Role:** Programmer / 3D Animator
@@ -39,28 +57,13 @@ I’m a dual-degree graduate from Ontario Tech University with Honours in Comput
 
 ---
 
-### 🔹 CyberRift: The Fractured Path
-
-**Role:** Programmer / Game Designer
-
-**Play Link:**  
-🔗 [CyberRift on Itch.io](https://farhaniboii.itch.io/cyberrift-the-fractured-path)
-
-<img src="assets/Cyberrift.png" alt="CyberRift Screenshot" width="400"/>
-
-▶️ [Watch Game Trailer on YouTube](https://www.youtube.com/watch?v=J02vI8q2crk)
-
-
-
----
-
 ## 🎓 Capstone 2025
 
 ### 🔹 [Zumba Game for Dementia Study (GitHub)](https://github.com/sunujoseph/Zumba-Game)  
 **Role:** Lead Programmer  
 A Unity-based exergame using Azure Kinect for memory stimulation and physical activity for dementia patients.
 
-<img src="assets/Capstone1.PNG" alt="Capstone Showcase" width="400"/>
+<img src="assets/Capstone1.PNG" alt="Capstone Showcase" width="1000"/>
 
 ---
 
