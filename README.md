@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I'm a dual-degree graduate from Ontario Tech University with Honours in both **Computer Science** and **Game Development & Interactive Media**. I’ve developed immersive games, VR simulations, and real-time tools using Unity, C++, Python, Blender, and OpenCV. My focus is on building accessible, creative, and performance-optimized interactive systems.
+I’m a dual-degree graduate from Ontario Tech University with Honours in Computer Science and Game Development & Interactive Media. I’ve built 2D/3D games, VR simulations, and custom tools using Unity, Unreal Engine, C++, C#, and Blender. I'm passionate about game development and excited to contribute to creative teams that build meaningful, high-quality games.
 
 ---
 
