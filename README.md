@@ -25,10 +25,7 @@ I’m a dual-degree graduate from Ontario Tech University with Honours in Comput
 <img src="assets/PutInGame1.gif" alt="Put Yourself In The Game Screenshot 1" width="400"/>
 <img src="assets/PutInGame2.gif" alt="Put Yourself In The Game Screenshot 2" width="400"/>
 
-
-### 🔹 Fighter Frenzy
-
-**Role:** Programmer / 3D Animator
+---
 
 ### 🔹 CyberRift: The Fractured Path
 
@@ -47,6 +44,9 @@ I’m a dual-degree graduate from Ontario Tech University with Honours in Comput
 ▶️ [Watch Game Trailer on YouTube](https://www.youtube.com/watch?v=J02vI8q2crk)
 
 ---
+### 🔹 Fighter Frenzy
+
+**Role:** Programmer / 3D Animator
 
 **Play Link:**  
 🔗 [Fighter Frenzy on Itch.io](https://yorgi11.itch.io/fighter-frenzy)
