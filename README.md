@@ -19,6 +19,10 @@ I’m a dual-degree graduate from Ontario Tech University with Honours in Comput
 
 **Role:** Programmer
 
+**Description:** A WebGL-compatible 2D platformer game for students to put themselves in the game. Created for educational purposes.
+
+**Contributions:** Built a custom animator tool in Unity to create sprite-based 2D characters from recorded videos.
+
 **Play Links:**  
 🔗 [Feb 21 Event](https://gdimcommunityactivities.itch.io/put-yourself-in-the-game-2d-gdim-activity-feb-21)  
 🔗 [Feb 22 Event](https://gdimcommunityactivities.itch.io/event-put-yourself-in-the-game-thurs-feb-22-2024)
@@ -31,6 +35,10 @@ I’m a dual-degree graduate from Ontario Tech University with Honours in Comput
 ### 🔹 CyberRift: The Fractured Path
 
 **Role:** Programmer / Game Designer
+
+**Description:** A 2D pixel-art style platformer game
+
+**Contributions:** Programmed core functionality, AI systems, tools, and overall game structure.
 
 **Play Link:**  
 🔗 [CyberRift on Itch.io](https://farhaniboii.itch.io/cyberrift-the-fractured-path)
@@ -49,6 +57,11 @@ I’m a dual-degree graduate from Ontario Tech University with Honours in Comput
 
 **Role:** Programmer / 3D Animator
 
+**Description:** 3D action fighting game in Unity using motion capture.  
+
+**Contributions:** Gameplay programming, debugging and clean up on motion capture animations.
+
+
 **Play Link:**  
 🔗 [Fighter Frenzy on Itch.io](https://yorgi11.itch.io/fighter-frenzy)
 
@@ -63,7 +76,10 @@ I’m a dual-degree graduate from Ontario Tech University with Honours in Comput
 
 ### 🔹 [Zumba Game for Dementia Study (GitHub)](https://github.com/sunujoseph/Zumba-Game)  
 **Role:** Lead Programmer  
-A Unity-based exergame using Azure Kinect for memory stimulation and physical activity for dementia patients.
+
+**Description:** A Unity-based exergame using Azure Kinect for memory stimulation and physical activity for dementia patients.
+
+**Contributions:** Implemented camera status feedback, game optimization, and provided detailed technical documentation for client’s future development
 
 <img src="assets/Capstone1.PNG" alt="Capstone Showcase" width="1000"/>
 
