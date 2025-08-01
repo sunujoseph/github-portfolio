@@ -51,7 +51,8 @@ I’m a dual-degree graduate from Ontario Tech University with Honours in Comput
 **Play Link:**  
 🔗 [Fighter Frenzy on Itch.io](https://yorgi11.itch.io/fighter-frenzy)
 
-<img src="assets/fighter-frenzy.png" alt="Fighter Frenzy Screenshot" width="400"/>
+<img src="assets/fighter-frenzy.png" alt="Fighter Frenzy Screenshot" width="600"/>
+<img src="assets/fighter1.gif" alt="Fighter Frenzy Screenshot" width="600"/>
 
 ▶️ [Watch Game Trailer on YouTube](https://www.youtube.com/watch?v=GL_rGnmflYU)
 
