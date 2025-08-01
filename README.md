@@ -14,24 +14,44 @@ I'm a dual-degree graduate from Ontario Tech University with Honours in both **C
 
 ## 🎮 Games Published on Itch.io
 
-### 🔹 [Put Yourself In The Game 2D (Custom Animator)](https://gdimcommunityactivities.itch.io/put-yourself-in-the-game-2d-gdim-activity-feb-21)  
-[Alternate Link](https://gdimcommunityactivities.itch.io/event-put-yourself-in-the-game-thurs-feb-22-2024)  
-**Role:** Programmer  
-<img src="assets/PutInGame1.gif" alt="Fighter Frenzy Screenshot" width="400"/>
-<img src="assets/PutInGame2.gif" alt="Fighter Frenzy Screenshot" width="400"/>
+### 🔹 Put Yourself In The Game 2D (Custom Animator)
 
-### 🔹 [Fighter Frenzy](https://yorgi11.itch.io/fighter-frenzy)  
-**Role:** Programmer / 3D Animator  
+**Role:** Programmer
+
+**Play Links:**  
+🔗 [Feb 21 Event](https://gdimcommunityactivities.itch.io/put-yourself-in-the-game-2d-gdim-activity-feb-21)  
+🔗 [Feb 22 Event](https://gdimcommunityactivities.itch.io/event-put-yourself-in-the-game-thurs-feb-22-2024)
+
+<img src="assets/PutInGame1.gif" alt="Put Yourself In The Game Screenshot 1" width="400"/>
+<img src="assets/PutInGame2.gif" alt="Put Yourself In The Game Screenshot 2" width="400"/>
+
+
+### 🔹 Fighter Frenzy
+
+**Role:** Programmer / 3D Animator
+
+**Play Link:**  
+🔗 [Fighter Frenzy on Itch.io](https://yorgi11.itch.io/fighter-frenzy)
+
 <img src="assets/fighter-frenzy.png" alt="Fighter Frenzy Screenshot" width="400"/>
 
-[![Watch Fighter Frenzy Gameplay](https://img.youtube.com/vi/GL_rGnmflYU/hqdefault.jpg)](https://www.youtube.com/watch?v=GL_rGnmflYU)
+[![Watch Fighter Frenzy Gameplay](https://img.youtube.com/vi/GL_rGnmflYU/hqdefault.jpg)](https://www.youtube.com/watch?v=GL_rGnmflYU)  
+▶️ [Watch Gameplay on YouTube](https://www.youtube.com/watch?v=GL_rGnmflYU)
 
+---
 
-### 🔹 [CyberRift: The Fractured Path](https://farhaniboii.itch.io/cyberrift-the-fractured-path)  
-**Role:** Programmer / Game Designer  
+### 🔹 CyberRift: The Fractured Path
+
+**Role:** Programmer / Game Designer
+
+**Play Link:**  
+🔗 [CyberRift on Itch.io](https://farhaniboii.itch.io/cyberrift-the-fractured-path)
+
 <img src="assets/Cyberrift.png" alt="CyberRift Screenshot" width="400"/>
 
-[![Watch CyberRift Gameplay](https://img.youtube.com/vi/J02vI8q2crk/hqdefault.jpg)](https://www.youtube.com/watch?v=J02vI8q2crk)
+[![Watch CyberRift Gameplay](https://img.youtube.com/vi/J02vI8q2crk/hqdefault.jpg)](https://www.youtube.com/watch?v=J02vI8q2crk)  
+▶️ [Watch Gameplay on YouTube](https://www.youtube.com/watch?v=J02vI8q2crk)
+
 
 
 ---
