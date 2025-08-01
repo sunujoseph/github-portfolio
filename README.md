@@ -48,6 +48,13 @@ I’m a dual-degree graduate from Ontario Tech University with Honours in Comput
 
 <img src="assets/Cyberrift.png" alt="CyberRift Screenshot" width="400"/>
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/Cyber1.gif" alt="Cyberrift Screenshot 1" width="400"/>
+  <img src="assets/Cyber2.gif" alt="Cyberrift Screenshot 2" width="400"/>
+  <img src="assets/Cyber3.gif" alt="Cyberrift Screenshot 3" width="400"/>
+  <img src="assets/Cyber4.gif" alt="Cyberrift Screenshot 4" width="400"/>
+</div>
+
 ▶️ [Watch Game Trailer on YouTube](https://www.youtube.com/watch?v=J02vI8q2crk)
 
 
