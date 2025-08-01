@@ -24,23 +24,14 @@ I'm a dual-degree graduate from Ontario Tech University with Honours in both **C
 **Role:** Programmer / 3D Animator  
 <img src="assets/fighter-frenzy.png" alt="Fighter Frenzy Screenshot" width="400"/>
 
-<iframe width="560" height="315"
-title="Fighter Frenzy Promo Trailer" frameborder="0"
-src="https://www.youtube.com/embed/GL_rGnmflYU&ab_channel=EvanDriscoll" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe>
+[![Watch Fighter Frenzy Gameplay](https://img.youtube.com/vi/GL_rGnmflYU/hqdefault.jpg)](https://www.youtube.com/watch?v=GL_rGnmflYU)
+
 
 ### 🔹 [CyberRift: The Fractured Path](https://farhaniboii.itch.io/cyberrift-the-fractured-path)  
 **Role:** Programmer / Game Designer  
 <img src="assets/Cyberrift.png" alt="CyberRift Screenshot" width="400"/>
 
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/J02vI8q2crk&ab_channel=CallumMcintosh" 
-title="Cyberrift Gameplay Trailer" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe>
+[![Watch CyberRift Gameplay](https://img.youtube.com/vi/J02vI8q2crk/hqdefault.jpg)](https://www.youtube.com/watch?v=J02vI8q2crk)
 
 
 ---
